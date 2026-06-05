@@ -1,0 +1,23 @@
+{
+  "name": "testing-skills",
+  "version": "1.0.0",
+  "description": "Testing framework skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/testing-skills",
+  "repository": "https://github.com/full-statck-skills/testing-skills",
+  "source": "./",
+  "skills": [
+    "./skills/appium",
+    "./skills/cypress",
+    "./skills/detox",
+    "./skills/jest",
+    "./skills/junit",
+    "./skills/playwright",
+    "./skills/pytest",
+    "./skills/selenium",
+    "./skills/vitest"
+  ]
+}
